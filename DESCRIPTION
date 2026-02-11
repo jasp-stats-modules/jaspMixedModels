@@ -11,7 +11,7 @@ License: GPL (>= 2)
 Encoding: UTF-8
 Imports:
   afex (>= 0.28-0),
-  emmeans (>= 1.4.7),
+  emmeans (>= 1.4.7), 
   ggplot2,
   jaspBase,
   jaspGraphs,
